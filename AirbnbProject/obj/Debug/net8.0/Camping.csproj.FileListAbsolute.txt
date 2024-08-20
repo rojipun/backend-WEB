@@ -1,0 +1,7 @@
+C:\Users\rossy\OneDrive - Thomas More\Documenten\ExamWebProgramming\AirbnbProject\AirbnbProject\obj\Debug\net8.0\Camping.csproj.AssemblyReference.cache
+C:\Users\rossy\OneDrive - Thomas More\Documenten\ExamWebProgramming\AirbnbProject\AirbnbProject\obj\Debug\net8.0\Camping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossy\OneDrive - Thomas More\Documenten\ExamWebProgramming\AirbnbProject\AirbnbProject\obj\Debug\net8.0\Camping.AssemblyInfoInputs.cache
+C:\Users\rossy\OneDrive - Thomas More\Documenten\ExamWebProgramming\AirbnbProject\AirbnbProject\obj\Debug\net8.0\Camping.AssemblyInfo.cs
+C:\Users\rossy\OneDrive - Thomas More\Documenten\ExamWebProgramming\AirbnbProject\AirbnbProject\obj\Debug\net8.0\Camping.csproj.CoreCompileInputs.cache
+C:\Users\rossy\OneDrive - Thomas More\Documenten\ExamWebProgramming\AirbnbProject\AirbnbProject\obj\Debug\net8.0\Camping.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rossy\OneDrive - Thomas More\Documenten\ExamWebProgramming\AirbnbProject\AirbnbProject\obj\Debug\net8.0\Camping.MvcApplicationPartsAssemblyInfo.cache
